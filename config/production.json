@@ -1,0 +1,6 @@
+{
+    "nombre":"API REST CLASS PRO",
+    "configDB": {
+        "host": "db-pro"
+    }
+}

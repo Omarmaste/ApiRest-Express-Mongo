@@ -1,0 +1,6 @@
+{
+    "nombre":"API REST CLASS DEV",
+    "configDB": {
+        "host":"db-devep"
+    }
+}
